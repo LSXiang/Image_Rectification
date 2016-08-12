@@ -1,0 +1,1 @@
+imshow(car_image_process(imread('Ê®×Ö.bmp')));
